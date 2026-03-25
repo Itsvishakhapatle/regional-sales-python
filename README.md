@@ -10,11 +10,6 @@ This project focuses on analyzing regional sales data by combining multiple data
 ## 🛠️ Tools & Technologies
 - Python 🐍
 - Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Excel
-
 ---
 
 ## 📁 Dataset Details
